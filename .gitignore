@@ -1,0 +1,120 @@
+# ----------------------------
+# OS / Editor junk
+# ----------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ----------------------------
+# Build artifacts (C/C++)
+# ----------------------------
+build/
+Build/
+bin/
+lib/
+lib64/
+obj/
+out/
+dist/
+*.o
+*.obj
+*.a
+*.la
+*.lo
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+Makefile
+
+# Ninja / other build systems
+.ninja_deps
+.ninja_log
+build.ninja
+
+# ----------------------------
+# Python artifacts
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.pyo
+
+# Python packaging
+.eggs/
+*.egg
+*.egg-info/
+pip-wheel-metadata/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ----------------------------
+# ROS / Catkin / Colcon artifacts
+# ----------------------------
+devel/
+install/
+log/
+logs/
+.catkin_tools/
+.colcon/
+ros_ws/build/
+ros_ws/devel/
+ros_ws/install/
+ros_ws/log/
+
+# ROS bag and temporary runtime files (optional)
+*.active
+*.bag.active
+
+# ----------------------------
+# Runtime / logs / temp files
+# ----------------------------
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# ----------------------------
+# Env / secrets
+# ----------------------------
+.env
+.env.*
+*.local
+secrets.*
