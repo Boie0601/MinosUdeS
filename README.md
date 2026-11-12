@@ -1,15 +1,31 @@
-# Minos
+# Minos [![ROS Package Index](https://img.shields.io/ros/v/jazzy/vision_msgs?style=flat&logo=ros&logoColor=%2322314E)](https://docs.ros.org/en/jazzy/) [![Static Badge](https://img.shields.io/badge/Ubuntu-Ver?style=flat&logo=ubuntu&logoColor=%23E95420)](https://ubuntu.com/blog/tag/ubuntu-24-04-lts)
 
-Une plateforme AMR (**A**utonomous **M**obile **R**obot) conçue au sein du programme de génie robotique de l'Université de Sherbrooke. Entièrement personnalisable, elle offre au corps professoral la possibilité de modifier sa configuration au gré des objectifs d'apprentissage de leurs cours.
+Une plateforme AMR (**A**utonomous **M**obile **R**obot) éducative conçue pour être entièrement personnalisable, elle offre au corps professoral la possibilité de modifier sa configuration au gré des objectifs d'apprentissage de leurs cours.
 
-# Comment utiliser la plateforme
+<p align="center">
+    ** TODO mettre le vidéo de mégagénial **
+    <img src="media/Minos.PNG" alt="GitHub centered image" />
+</p>
 
-## Étudiant
-- Faire une bifurcation du répertoire fourni par votre professeur vers le répertoire de votre équipe de travail.
-- Le [wiki](https://github.com/Boie0601/MinosUdeS/wiki) offre un guide de déverminage complet de la plateforme.
+# Structure du répertoire
 
-## Corps professoral
+<p align="center">
+    ** TODO changer quand la migration vers ce repo va être fait **
+</p>
 
-# Documentation
+# L'équipe
 
-La documentation complète de Minos est accessible sur le [wiki](https://github.com/Boie0601/MinosUdeS/wiki) du répertoire GitHub. En plus de la documentation de base, celui-ci comprend la liste du matériel ainsi que les guides de fabrication pour les volets informatique, mécanique et électrique du projet
+- Loïc Legault
+- Samuel Langevin
+- Thomas Giroux
+- Thomas Maher
+- Simon Lamontagne
+- Samuel Langevin
+- Simon Gariépy
+- Xavier Bourget
+
+# Nos partenaires
+
+<p align="center">
+  <img src="media/Commandite.PNG" alt="GitHub centered image" />
+</p>
