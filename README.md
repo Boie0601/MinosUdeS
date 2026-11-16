@@ -16,7 +16,7 @@ Une plateforme AMR (**A**utonomous **M**obile **R**obot) éducative conçue pour
 # L'équipe
 
 - Loïc Legault
-- Samuel Langevin
+- Émile Bois
 - Thomas Giroux
 - Thomas Maher
 - Simon Lamontagne
