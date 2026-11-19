@@ -3,7 +3,6 @@
 Une plateforme AMR (**A**utonomous **M**obile **R**obot) éducative conçue pour être entièrement personnalisable, elle offre au corps professoral la possibilité de modifier sa configuration au gré des objectifs d'apprentissage de leurs cours.
 
 <p align="center">
-    ** TODO mettre le vidéo de mégagénial **
     <img src="media/Minos.PNG" alt="GitHub centered image" />
 </p>
 
